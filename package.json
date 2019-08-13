@@ -1,0 +1,23 @@
+{
+  "name": "koa_app",
+  "version": "1.0.0",
+  "description": "test of koa package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barnesdc/koa_app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "koa"
+  ],
+  "author": "D'Ante Barnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barnesdc/koa_app/issues"
+  },
+  "homepage": "https://github.com/barnesdc/koa_app#readme"
+}
