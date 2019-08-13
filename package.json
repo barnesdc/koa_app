@@ -1,5 +1,5 @@
 {
-  "name": "koa_app",
+  "name": "koa_app_backend",
   "version": "1.0.0",
   "description": "test of koa package",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barnesdc/koa_app.git"
+    "url": "git+https://github.com/barnesdc/koa_app_backend.git"
   },
   "keywords": [
     "nodejs",
@@ -17,9 +17,9 @@
   "author": "D'Ante Barnes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/barnesdc/koa_app/issues"
+    "url": "https://github.com/barnesdc/koa_app_backend/issues"
   },
-  "homepage": "https://github.com/barnesdc/koa_app#readme",
+  "homepage": "https://github.com/barnesdc/koa_app_backend#readme",
   "dependencies": {
     "koa": "^2.7.0"
   }
